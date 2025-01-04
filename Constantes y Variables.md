@@ -1,11 +1,11 @@
 # The Basic
 
-# [Constantes y Variables](https://www.notion.so/The-Basics-dba194d6e92547499a05694973eea757?pvs=21)
+# [Constantes y Variables]
 
 1. Declara una constante llamada `pi` y asígnale el valor 3.14159
 2. Declara una variable llamada `edad` con el valor 25, luego actualízala a 26.
 3. Declara una constante `nombre` y asígnale tu nombre.
-4. Crea una variable `numeroAleatorio` e inicialízala con cualquier número entero. Luego multiplícala por 2 y almacena el resultado en la misma variable.
+4. Crea una variable `numeroAleatorio` e inicialízala con cualquier número entero, luego multiplícala por 2 y almacena el resultado en la misma variable.
 5. Declara dos constantes: `base` y `altura`. Luego calcula el área de un triángulo.
 6. Declara una variable `mensaje` sin inicializarla. Asigna el valor `"Hola, mundo"` y luego imprímela.
 7. Usa `type annotation` para declarar una constante llamada `precio` de tipo `Double` y asígnale 19.99.
@@ -21,7 +21,7 @@
 17. Declara una variable `cantidadProductos` y asígnale el valor 10. Luego multiplícalo por 3.
 18. Usa interpolación para declarar una constante `mensajeFinal` que combine el valor de dos constantes: `usuario` y `puntaje`.
 19. Declara una variable `temperatura` con el valor 20 y cámbiala a 15 después.
-20l. Declara una constante `piRedondeado` que almacene el valor de `pi` redondeado a 2 decimales.
+20. Declara una constante `piRedondeado` que almacene el valor de `pi` redondeado a 2 decimales.
 - ***Soluciones***
     
     ```swift
